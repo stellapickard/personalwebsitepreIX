@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+.helloworld {
+	font-family: Raleway Dots; 
+	font-size: 24px;
+	text-align: center; 
+	font-weight: bold;
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	letter-spacing: 2px; 
+}
+
+.heading {
+	font-family: Amatic SC;  
+	font-size: 24px; 
+}
+
+.par {
+	font-size: 12px; 
+	font-family: Raleway:500; 
+}
+
+.pic {
+	width: 362px; 
+	height: 362px;
+	border-color: white; 
+	border-style: solid; 
+	border-width: 5px; 
+
+
+}
+
+.bodbod {
+	background-color: #f9f9f9;
+}
+
+.text {
+	width: 362px; 
+	height: 362px;
+	border-color: white; 
+	border-style: solid; 
+	border-width: 5px; 
+	background-color: white; 
+	text-align: center; 
+	padding: 20px; 
+
+}
